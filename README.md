@@ -45,6 +45,11 @@ Team members: No other team members. Individual submission.
 
 ![image](https://user-images.githubusercontent.com/85700971/200154502-8bd588f1-08c6-498e-88ef-be82b3caef8b.png) <br>
 
+## The source tables of the control structure and the MSR values are provided in the comments of the source code. <br>
+### IA-32 Architectural MSRs <br>
+	[Intel SDM volume 4] (https://www.intel.com/content/dam/develop/external/us/en/documents/335592-sdm-vol-4.pdf) Table 2-2. IA-32 Architectural MSRs <br>
+###  VM-Execution Control Fields <br>
+	[Intel SDM volume 3] (https://www.intel.com/content/dam/develop/public/us/en/documents/325384-sdm-vol-3abcd.pdf)
 
 
 
