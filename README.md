@@ -51,7 +51,28 @@ Team members: No other team members. Individual submission.
 Table 2-2. IA-32 Architectural MSRs <br>
 
 ###  VM-Execution Control Fields 
-[Intel SDM volume 3](https://www.intel.com/content/dam/develop/public/us/en/documents/325384-sdm-vol-3abcd.pdf)
+[Intel SDM volume 3](https://www.intel.com/content/dam/develop/public/us/en/documents/325384-sdm-vol-3abcd.pdf) <b*	24.6 VM-Execution Control Fields <br>
+
+*	24.6.1 Pin-Based VM-Execution Controls <br>
+*	24.6.2 Processor-Based VM-Execution Controls <br>
+Table 24-6. Definitions of Primary Processor-Based VM-Execution Controls  <br>
+Table 24-7. Definitions of Secondary Processor-Based VM-Execution Controls  <br>
+Table 24-8. Definitions of Tertiary Processor-Based VM-Execution Controls  <br>
+*	24.7 VM-EXIT CONTROL FIELDS <br>
+*	24.7.1 VM-Exit Controls Definitions of VM-Exit Controls  <br>
+* Table 24-13. Definitions of VM-Exit Controls <br>
+* 24.8 VM-ENTRY CONTROL FIELDS <br>
+* 24.8.1 VM-Entry Controls Table 24-15. Definitions of VM-Entry Controls <br>r>
+
+* A bit check function was added to check the status of a bit inside a 32-bit value. We use this to query the 17th bit to check availability of Tertiary Processor-Based VM-Execution Control and 31st bit to check availability of Secondary Processor-Based VM-Execution Control in the most significant 32 bits returned by the MSR query for Primary Processor-Based VM-Execution Control.  <br>
+
+![image](https://user-images.githubusercontent.com/85700971/200154895-e20f6ca2-a2c0-436d-b16e-890dc257ec53.png)
+
+
+
+
+
+
 
 
 
