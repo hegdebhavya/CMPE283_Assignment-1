@@ -70,6 +70,16 @@ A bit check function was added to check the status of a bit inside a 32-bit valu
 
 ![image](https://user-images.githubusercontent.com/85700971/200154895-e20f6ca2-a2c0-436d-b16e-890dc257ec53.png)
 
+The availability check can be seen below <br>
+
+![image](https://user-images.githubusercontent.com/85700971/200154948-33f2e6ee-f5ed-49f1-84a3-0f37e79d43d4.png) <br>
+
+
+One of the MSR query and display code can be seen below <br>
+
+
+![image](https://user-images.githubusercontent.com/85700971/200154956-2f52b395-1f1e-4036-a654-178550d34c9c.png)
+
 
 
 
