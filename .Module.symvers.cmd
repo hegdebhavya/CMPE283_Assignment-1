@@ -1,0 +1,1 @@
+cmd_/home/hegdeb/Desktop/CMPE283/Module.symvers := sed 's/\.ko$$/\.o/' /home/hegdeb/Desktop/CMPE283/modules.order | scripts/mod/modpost -m -a  -o /home/hegdeb/Desktop/CMPE283/Module.symvers -e -i Module.symvers   -T -
