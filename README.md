@@ -37,7 +37,19 @@ Team members: No other team members. Individual submission.
 ![image](https://user-images.githubusercontent.com/85700971/200154118-9ece257b-d9c1-4244-806a-4c6ead3074af.png)
 
 ### Kernel module source code cmpe283-1.c:
-* The different MSRs to be queried are seen in the image below,
+* The different MSRs to be queried are seen in the image below <br> 
+
+![image](https://user-images.githubusercontent.com/85700971/200154481-f5c48178-6a08-48ab-b662-391fa49bed8c.png)
+
+* One of the control structures that I added for querying the MSR capabilities in this case Primary Processor-Based VM-execution Control is seen below <br>
+
+![image](https://user-images.githubusercontent.com/85700971/200154502-8bd588f1-08c6-498e-88ef-be82b3caef8b.png)
+
+
+
+
+
+
 
 
 
