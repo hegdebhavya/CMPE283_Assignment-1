@@ -43,7 +43,17 @@ Team members: No other team members. Individual submission.
 
 * One of the control structures that I added for querying the MSR capabilities in this case Primary Processor-Based VM-execution Control is seen below <br>
 
-![image](https://user-images.githubusercontent.com/85700971/200154502-8bd588f1-08c6-498e-88ef-be82b3caef8b.png)
+![image](https://user-images.githubusercontent.com/85700971/200154502-8bd588f1-08c6-498e-88ef-be82b3caef8b.png) <br>
+
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/85700971/200154559-19068e34-725e-4d4f-97c2-02d34e897748.png">  <br>
+
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/85700971/200154578-83d03fc0-897d-4211-831c-0ccc7b12c8f5.png">
+
+
+
+
+
+
 
 
 
