@@ -23,6 +23,23 @@ Email: bhavya.hegde@sjsu.edu <br>
 
 ![image](https://user-images.githubusercontent.com/85700971/200154031-b40a98fc-d896-4a2c-adb6-3d579dd52e62.png)
 
+* Run ‘insmod cmpe283-1.ko’ to insert our kernel module and ‘rmmod cmpe283-1.ko’ to remove the module
+
+![image](https://user-images.githubusercontent.com/85700971/200154061-342d3770-eb0d-4a6b-b041-b883a0dd2c5e.png)
+
+* We can see the output of this module using ‘dmesg’ command and the corresponding logs can be seen in the three screenshots below
+![image](https://user-images.githubusercontent.com/85700971/200154083-12d16cca-b474-4ea5-94d0-fffdf1df0ee9.png) <br>
+
+![image](https://user-images.githubusercontent.com/85700971/200154111-1b2f6b80-f217-429c-9fae-cd481a74308f.png)  <br>
+
+![image](https://user-images.githubusercontent.com/85700971/200154118-9ece257b-d9c1-4244-806a-4c6ead3074af.png)
+
+
+
+
+
+
+
 
 
 
