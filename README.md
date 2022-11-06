@@ -36,6 +36,9 @@ Team members: No other team members. Individual submission.
 
 ![image](https://user-images.githubusercontent.com/85700971/200154118-9ece257b-d9c1-4244-806a-4c6ead3074af.png)
 
+** Kernel module source code cmpe283-1.c:
+* The different MSRs to be queried are seen in the image below,
+
 
 
 
