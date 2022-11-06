@@ -3,6 +3,7 @@
 Name: Bhavya Hegde <br>
 SJSU ID: 016656029 <br>
 Email: bhavya.hegde@sjsu.edu <br>
+Team members: No other team members. Individual submission.
 
 
 ## Steps to create Linux kernel module that will query various MSRs to determine virtualization features available in your CPU
