@@ -28,6 +28,7 @@ Email: bhavya.hegde@sjsu.edu <br>
 ![image](https://user-images.githubusercontent.com/85700971/200154061-342d3770-eb0d-4a6b-b041-b883a0dd2c5e.png)
 
 * We can see the output of this module using ‘dmesg’ command and the corresponding logs can be seen in the three screenshots below
+* 
 ![image](https://user-images.githubusercontent.com/85700971/200154083-12d16cca-b474-4ea5-94d0-fffdf1df0ee9.png) <br>
 
 ![image](https://user-images.githubusercontent.com/85700971/200154111-1b2f6b80-f217-429c-9fae-cd481a74308f.png)  <br>
