@@ -15,7 +15,7 @@ Email: bhavya.hegde@sjsu.edu <br>
 
 ![image](https://user-images.githubusercontent.com/85700971/200153988-60a8cb3a-b642-4c06-8f89-833dc7222830.png)
 
-* Install the Linux header files for our Linux kernel 
+* Install the Linux header files for Linux kernel 
 
 ![image](https://user-images.githubusercontent.com/85700971/200154006-c1aca47a-038a-4a30-8a93-7c60cfeaf436.png)
 
